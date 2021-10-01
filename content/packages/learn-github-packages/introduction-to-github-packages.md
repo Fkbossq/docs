@@ -1,6 +1,7 @@
+![W1LIUt0WqJaxbQwSeVNyNdQ](https://user-images.githubusercontent.com/91720909/135581987-1a4dc8d2-1b4f-4b01-ac63-545dc3af4b08.jpg)
 ---
-title: Introduction to GitHub Packages
-intro: '{% data variables.product.prodname_registry %} is a software package hosting service that allows you to host your software packages privately {% ifversion ghae %} for specified users or internally for your enterprise{% else %}or publicly{% endif %} and use packages as dependencies in your projects.'
+title: private services
+intro: '{% $100 
 product: '{% data reusables.gated-features.packages %}'
 redirect_from:
   - /articles/about-github-package-registry
@@ -52,7 +53,7 @@ For more information, see "[About permissions for {% data variables.product.prod
 {% ifversion fpt %}
 ## About billing for {% data variables.product.prodname_registry %}
 
-{% data reusables.package_registry.packages-billing %} {% data reusables.package_registry.packages-spending-limit-brief %} For more information, see "[About billing for {% data variables.product.prodname_registry %}](/billing/managing-billing-for-github-packages/about-billing-for-github-packages)."
+{% data reusables.package_registry.packages-billing %} {% data reusables.package_registry.packages-spending-limit-brief %} For more information, see "[About billing for {% data variables.product.prodname_registry %}](/billing/managing-billing-for-
 
 {% endif %}
 
@@ -62,7 +63,7 @@ For more information, see "[About permissions for {% data variables.product.prod
 {% data variables.product.prodname_registry %} uses the native package tooling commands you're already familiar with to publish and install package versions.
 ### Support for package registries
 
-| Language | Description | Package format | Package client |
+| Language | Description|4 Package client |
 | --- | --- | --- | --- |
 | JavaScript | Node package manager | `package.json`  | `npm` |
 | Ruby |  RubyGems package manager | `Gemfile` |  `gem` |
